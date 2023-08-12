@@ -8,5 +8,6 @@
 </head>
 <body>
 안녕
+<a href=/user-info/insert.jsp>insert</a>
 </body>
 </html>
